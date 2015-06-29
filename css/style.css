@@ -1,13 +1,16 @@
+
 body
 {
 	margin: 0px;
-	background-color: #552233;
+	padding: 0px;
+	background-color: peru;
 }
 
 header
 {
 	background-color: #000;
 	height: 70px;
+	overflow: hidden;
 }
 
 p
@@ -18,8 +21,8 @@ p
 h1
 {
 	color: #FFF;
+	border: 1px solid red;
 	font-family: Arial;
-	font-size: 30px;
 	left: 1em;
 	margin: 0;
 	position: relative;
